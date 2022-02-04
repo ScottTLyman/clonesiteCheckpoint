@@ -16,6 +16,8 @@
 
 .sw-bg{
   background-image: url(https://www.starwarsnewsnet.com/wp-content/uploads/2020/10/Boba-Fett-The-Mandalorian-Star-Wars.png);
-  object-fit: cover;
+  background-size: cover;
   height: 50vh;
 }
+
+
