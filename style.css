@@ -1,3 +1,7 @@
+.cadet{
+  color: #202c59;
+}
+
 .bg-cadet{
   background-color: #202c59;
 }
@@ -24,3 +28,10 @@
   display: flex;
 }
 
+.seeThruCadet{
+  background-color: #202c5973;
+}
+
+.giantText{
+  font-size: 50px;
+}
