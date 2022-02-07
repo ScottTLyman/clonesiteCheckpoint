@@ -40,6 +40,16 @@
   width: 376px;
 }
 
+.card-lg{
+  height: 324px;
+  width: 376px;
+}
+
+.card-center{
+  display: flex;
+  align-items: center;
+}
+
 @media (min-width:799px){
   .desktop { transform: translateY(4em); }
 }
