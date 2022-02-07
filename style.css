@@ -35,6 +35,11 @@
   font-size: 50px;
 }
 
+.card-sm{
+  height: 250px;
+  width: 376px;
+}
+
 @media (min-width:799px){
   .desktop { transform: translateY(4em); }
 }
