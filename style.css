@@ -38,3 +38,12 @@
 @media (min-width:799px){
   .desktop { transform: translateY(4em); }
 }
+
+@media (max-width:799px){
+  .text-scale-l { font-size: 9vw; }
+}
+
+@media (max-width:799px){
+  .text-scale-s { font-size: 4vw; }
+}
+
